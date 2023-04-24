@@ -1,0 +1,11 @@
+a=56
+b=10
+c=a&b
+d=a|b
+e=a<<2;b>>4
+f=a>>2;b>>4
+print(bin(c))
+print(bin(d))
+print(bin(a^b))
+print(bin(e))
+print(bin(f))
